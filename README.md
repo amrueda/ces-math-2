@@ -6,7 +6,7 @@ bachelor program at RWTH Aachen University (summer term 2023).
 ## Pluto notebooks
 Notebooks available in this repository:
 * **Notebook 1: Polynomial interpolation**
-  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-2/main/notebooks/polynomial_interpolation.jl),
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-2/master/notebooks/polynomial_interpolation.jl),
    [HTML preview](https://amrueda.github.io/ces-math-2/polynomial_interpolation.html))
 
 If you are new to [Julia](https://julialang.org) and [Pluto.jl](https://github.com/fonsp/Pluto.jl),
