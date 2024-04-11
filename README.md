@@ -61,8 +61,9 @@ first time*, this delay can be even longer (tens of seconds), since Pluto might
 have to install additional Julia packages.
 
 ## Author
-This repository was initiated by [Michael Schlottke-Lakemper](https://lakemper.eu),
-who is also its principal maintainer. Several of the notebooks hosted here are
+This repository was initiated by [Michael Schlottke-Lakemper](https://lakemper.eu).
+He and [Andrés Rueda-Ramírez](https://www.acom.rwth-aachen.de/the-lab/team-people/name:andr-s_rueda-ram-rez)
+are the principal developers. Several of the notebooks hosted here are
 based on ideas first developed by [Manuel Torrilhon](https://www.acom.rwth-aachen.de).
 
 ## License
